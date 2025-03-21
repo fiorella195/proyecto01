@@ -5,6 +5,10 @@
 
 grupo 10-3 de Aplicaciones móviles
 
-#Lenguajes de programación  
+# Lenguajes de programación  
 -kotlin
--mysql
+
+-mysqlcla
+
+
+![logo kotlin](imagenes/kotlin_logo.jpeg)
