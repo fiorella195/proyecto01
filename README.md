@@ -12,3 +12,5 @@ grupo 10-3 de Aplicaciones móviles
 
 
 ![logo kotlin](imagenes/kotlin_logo.jpeg)
+
+esta información se agrego desde la casa 
